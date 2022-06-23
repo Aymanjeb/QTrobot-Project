@@ -6,4 +6,4 @@
  For starters, it would be interesting if the robot moves it head and arms a little, like a standing person who is looking at his surroundings. This what the script "Random_moves" aims to do.
 Then, The script "Follow_user.py" makes the robot capable of following its user, it was programmed based on the image recognition functions already implemented in its camera NuiTrack. In addition, scripts "Bonjour.py" and "Namasté.py" helps the robot recognize and reproduce some greetings, in particular the waving, a greeting with a swipe up and the Namasté greeting. 
 
- Finally, bringing together all the functions described previously in a single script, all the fruit of this work can be observed during the same scenario using the script "F_itegrale.py".
+ Finally, bringing together all the functions described previously in a single script, all the fruit of this work can be observed during the same scenario using the script "F_integrale.py".
