@@ -5,6 +5,7 @@
  
  For starters, it would be interesting if the robot moves it head and arms a little, like a standing person who is looking at his surroundings. This what the script "Random_moves" aims to do.
 Then, The script "Follow_user.py" makes the robot capable of following its user, it was programmed based on the image recognition functions already implemented in its camera NuiTrack. You can see in the image bellow that both motors of the head (HeadYaw and HeadPitch) are moving in order to follow the user's face position :
+
 ![Suivi ](https://user-images.githubusercontent.com/107966957/176801915-b1261cbb-c0a2-4be2-a63b-7d44f0bc9b75.png)
 
 In addition, scripts "Bonjour.py" and "Namasté.py" helps the robot recognize and reproduce some greetings, in particular the waving, a greeting with a swipe up and the Namasté greeting. In these images you can see some gestures done and the response of the robot to them :
