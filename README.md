@@ -33,6 +33,7 @@ Launching a function :
   rosrun Name_of_the_function.py (for example rosrun Random_moves.py for the first function). If you decided to put all scripts in a new folder in the folder catkin-ws you should tap the command :
   rosrun Name_of_the_folder Name_of_the_function.py
   If the script is succesfully launched, a message should appear on the terminal indicating the beginning of the function. See below an exemple of the launch of the first function.
+  
 ![Capture_terminal](https://user-images.githubusercontent.com/107966957/176799664-758a9d1d-c7b4-4571-87a2-1b5db6880846.png)
 
 In the beginning of each script there are some parameters that you can modify if you want to see the impact of those parameters on the robot's bahavior and this could also help you understand how each function works. 
@@ -41,5 +42,7 @@ In the beginning of each script there are some parameters that you can modify if
 Members of the project developpers :
 
 Divya RAMDOO
+
 Yudong LIU
+
 Aymane JEBARI
