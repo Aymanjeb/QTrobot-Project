@@ -9,12 +9,19 @@ Then, The script "Follow_user.py" makes the robot capable of following its user,
 
 In addition, scripts "Bonjour.py" and "Namasté.py" helps the robot recognize and reproduce some greetings, in particular the waving, a greeting with a swipe up and the Namasté greeting. In these images you can see some gestures done and the response of the robot to them :
 Swipe up / Waving :
+
 ![Salut Yudong](https://user-images.githubusercontent.com/107966957/176802330-ca02dbd0-61ac-4743-baa9-25dc15a3f40a.png)
+
 Response :
+
 ![Salut à main levée](https://user-images.githubusercontent.com/107966957/176802378-a40276e1-e6c5-4b05-a16a-2416a2bbd4d8.png) : 
+
 Namasté :
+
 ![Namasté divya](https://user-images.githubusercontent.com/107966957/176802420-57b151ac-a972-4988-af37-2330191698aa.png)
+
 Response : 
+
 ![Namasté](https://user-images.githubusercontent.com/107966957/176802436-448516a4-4d97-40c9-abbd-4c9bacb86e3f.png)
 
 
@@ -22,8 +29,8 @@ Response :
  
 Launching a function :
  
-  You should download the pythoncode of the function in the folder catkin~ws of QTPC. Then you just need to open a terminal and tap the command :
-  rosrun Name_of_the_function.py (for example rosrun Random_moves.py for the first function). If you've decided to put all scripts in a new folder in the folder catkin~ws you should tap the command :
+  You should download the pythoncode of the function in the folder catkin-ws of QTPC. Then you just need to open a terminal and tap the command :
+  rosrun Name_of_the_function.py (for example rosrun Random_moves.py for the first function). If you decided to put all scripts in a new folder in the folder catkin-ws you should tap the command :
   rosrun Name_of_the_folder Name_of_the_function.py
   If the script is succesfully launched, a message should appear on the terminal indicating the beginning of the function. See below an exemple of the launch of the first function.
 ![Capture_terminal](https://user-images.githubusercontent.com/107966957/176799664-758a9d1d-c7b4-4571-87a2-1b5db6880846.png)
